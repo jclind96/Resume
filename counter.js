@@ -1,7 +1,7 @@
 // Define variables for the Count API
 const COUNT_URL = "https://api.countapi.xyz";
 const NAMESPACE = "resume.4199444.xyz";
-const KEY = "95f9261e-fd4c-11ef-9cd2-0242ac120002";
+const KEY = secret.COUNTAPIKEY;
 const counter = document.querySelectorAll('span');
 
 // Declare function to get the current counter value
